@@ -1,0 +1,8 @@
+1. First run enPass.py file. Password file will be save in a txt file as encrypted form. And will show as a decrypted form.
+
+---Application run command---
+>py enPass.py
+
+#Press 1 to insert password
+#Press 2 to view password
+#Press 3 to quit
